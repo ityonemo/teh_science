@@ -1,2 +1,3 @@
 # teh_science
-a repository for all the science!
+
+This is Isaac's Science repo.  It will track **The Experiment**, the purpose of which will be revealed, in due time.
