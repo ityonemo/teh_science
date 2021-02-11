@@ -71,7 +71,10 @@ Noticeable cloudiness evolving in the YPD media.
 - (AM) there appear to be colonies in only the YP(A)D plate.  Is the dark YPD
 media toxic?
 
-- (PM) false alarm; the 'colonies' were air bubbles.  Good thing [experiment-2.md]
+![Petris](10Feb-petris.jpeg)
+
+- (PM) false alarm; the 'colonies' were air bubbles.  Good thing [experiment 2](experiment-2.md)
 flamed the petries.  There now appears to be growth in all 4 plates, it is
 apparent that there are far too many colonies in the 1x, and probably too many
 in the 5x and 25x cases as well.
+
