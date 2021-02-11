@@ -41,7 +41,7 @@ then shut stove and wait to cool.
   Set aside one flask of YP(A)D for later.
 
 - poured 1x ~20mL YP(A)D-Agar into 10 cm petri dish
-- poured 3x ~20mL YP(A)D-Agar into 10 cm petri dish
+- poured 3x ~20mL YPD-Agar into 10 cm petri dish
 
 Noted that the color of the YP(A)D media appeared too light; the color of the
 YPD agar was too dark and there appeared to be residual undissolved agar.  Did
@@ -61,14 +61,17 @@ Noticeable cloudiness evolving in the YPD media.
 - 2030h: performed serial dilutions (200 uL into 800 uL pre-aliquoted from
   the set-aside 10 mL falcon into sterile Ep. tubes) of yeast growth (1x,
   5x, 25x) dilutions and plated 1x on the YP(A)D plate and 1x, 5x, 25x on
-  the YPD plate, by pipetting 200 uL from the dilution into the Petris.
+  the YPD plate, by pipetting 200 uL from the dilution into the Petris and
+  spreading with sterile plastic hockey stick.
 
 ## Observations
 
-10 Feb 2021
-(AM) there appear to be colonies in only the YP(A)D plate.  Is the dark YPD
+### 10 Feb 2021
+
+- (AM) there appear to be colonies in only the YP(A)D plate.  Is the dark YPD
 media toxic?
-(PM) false alarm; the 'colonies' were air bubbles.  Good thing [experiment-2.md]
+
+- (PM) false alarm; the 'colonies' were air bubbles.  Good thing [experiment-2.md]
 flamed the petries.  There now appears to be growth in all 4 plates, it is
 apparent that there are far too many colonies in the 1x, and probably too many
 in the 5x and 25x cases as well.
